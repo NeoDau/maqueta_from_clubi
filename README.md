@@ -1,4 +1,4 @@
 ### CLON
 
 Prueba OK de registro de usuarios en formulario Clubi.
-Maqueta de vinculo form con mysql
+Formulario de prueba donde se vinculo la base de datos (phpMyAdmin) en MySQL usando Flask
